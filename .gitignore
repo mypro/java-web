@@ -15,3 +15,4 @@ filters
 *.jar
 *.war
 *.ear
+/bin
